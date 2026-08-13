@@ -1,0 +1,241 @@
+{
+  "items": [
+    {
+      "description": "On the profiles, attitude, behaviors, and expectations between developers, managers and executives.",
+      "items": [],
+      "title": "Roles"
+    },
+    {
+      "description": "You're in a competitive sector in which talents are in high demand. Be prepared as a manager to spend a lot of time recruiting people, either to expand your team or fill-in open positions. The dynamics gets interesting too, as you are now on both sides of the hiring process: as a candidate to get a job, and as a recruiter to staff up your team.",
+      "items": [],
+      "title": "Recruitment"
+    },
+    {
+      "description": "By targeting the right place to post your job offer to, you're increasing your chances of targeting the right candidates.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hiring Without Whiteboards",
+          "description": "List of companies without the kind of CS trivia questions that are associated with bad interview practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-06T02:10:59Z",
+            "owner": "poteto",
+            "repo": "hiring-without-whiteboards",
+            "stars": 51339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Job Boards",
+          "description": "Niche job boards by domains, technology, roles and area.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T12:55:40Z",
+            "owner": "tramcar",
+            "repo": "awesome-job-boards",
+            "stars": 1846
+          }
+        }
+      ],
+      "title": "Job Boards"
+    },
+    {
+      "description": "List of questions that can be used when vetting potential candidates, and topics to draw inspiration from to be used as conversation starters.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reverse interview",
+          "description": "Questions to ask the company during your interview. Be prepared to answer them as a manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-19T22:41:18Z",
+            "owner": "viraptor",
+            "repo": "reverse-interview",
+            "stars": 28577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Back-End Developer Interview Questions",
+          "description": "A great source of inspiration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-15T07:09:42Z",
+            "owner": "arialdomartini",
+            "repo": "Back-End-Developer-Interview-Questions",
+            "stars": 16951
+          }
+        }
+      ],
+      "title": "Interview"
+    },
+    {
+      "description": "The absence of coding exercise will left the door open to fraud. OTOH, if elitist challenges decrease the number of false-positive, you will pass on perfectly capable and great developers. Now it is your job as manager to find balance between these two extremes, and set the tone on how to have the candidate demonstrate coding skills.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Interviews",
+          "description": "A huge database of questions sorted by topic to get inspiration from.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-07-29T14:21:23Z",
+            "owner": "DopplerHQ",
+            "repo": "awesome-interview-questions",
+            "stars": 84037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FizzBuzz Enterprise Edition",
+          "description": "A satire of over-engineering for the sake of enterprise-grade software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-15T08:04:08Z",
+            "owner": "EnterpriseQualityCoding",
+            "repo": "FizzBuzzEnterpriseEdition",
+            "stars": 23778
+          }
+        }
+      ],
+      "title": "Coding Challenge"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hacker-laws",
+          "description": "Laws, Theories, Principles and Patterns that developers will find useful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-19T06:22:17Z",
+            "owner": "dwmkerr",
+            "repo": "hacker-laws",
+            "stars": 27252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "High Performance Organizations Reading List",
+          "description": "A list of books, web pages, and videos about how to design better organizations, divided into 3 categories: organization and motivation, health and wellness, and software development specific.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-01T15:46:09Z",
+            "owner": "pdfernhout",
+            "repo": "High-Performance-Organizations-Reading-List",
+            "stars": 1265
+          }
+        }
+      ],
+      "title": "Culture"
+    },
+    {
+      "description": "Thinking frameworks and mental models to improve decision making, understand systems and solve problems.",
+      "items": [],
+      "title": "Cognitive Tools"
+    },
+    {
+      "description": "You're no longer an engineer. Still, your team is responsible for the systems, technology and all the processes surrounding them. You'd better know a bit about engineering tenets.",
+      "items": [],
+      "title": "Engineering"
+    },
+    {
+      "description": "The Product Manager is supposed to be the voice of the market. Here are more links on the role and its reach.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How to exit vim, the Product Manager way",
+          "description": "A satire with a grain of truth, especially the comparison between the basic vs experienced level.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T11:33:17Z",
+            "owner": "hakluke",
+            "repo": "how-to-exit-vim",
+            "stars": 7189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Product Management",
+          "description": "Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-01T15:25:07Z",
+            "owner": "ProductHired",
+            "repo": "open-product-management",
+            "stars": 4428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Product Management",
+          "description": "A reference. All the missing pieces are found below.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-08T02:36:12Z",
+            "owner": "dend",
+            "repo": "awesome-product-management",
+            "stars": 2308
+          }
+        }
+      ],
+      "title": "Product Management"
+    },
+    {
+      "description": "It is not only about reading, writing and talking. It encompass all the social practice and context sharing of the team's activities.\nEspecially a software team, which generates a huge amount of knowledge. All this knowledge is fragile and about to be lost for good. Unless you materialization it in the form of writing.",
+      "items": [],
+      "title": "Communication"
+    },
+    {
+      "description": "It's not only about the salary, but the whole package: equity, bonuses, perks, and the dealings around all of these.",
+      "items": [],
+      "title": "Compensation"
+    },
+    {
+      "description": "As a manager, you have direct responsibility of the structure of the team. Past a certain size (around 8 to 12 depending on sources), you no longer have time to work with direct ICs, so you need to re-organize the team.\nAt a company level, re-orgs are mostly strategic and your influence on them depends on your political acumen.",
+      "items": [],
+      "title": "Re-organizations"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "The header image is based on a modified photo taken in November 2017 by Werner Du plessis.\n[1]: Peopleware: Productive Projects and Teams, 1987, page 34 (Addison-Wesley Professional, 3rd edition, 2013). [↑]",
+      "items": [],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:01:15.643Z",
+    "original_repository": "kdeldycke/awesome-engineering-team-management",
+    "original_repository_sha": "1ec5eece2b00b7aaa603789d9ce748c954498c50",
+    "enhanced_repository": "enhansome/enhansome-engineering-team-management",
+    "enhanced_repository_description": null,
+    "title": "Awesome engineering team management with stars"
+  }
+}
