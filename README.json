@@ -24,7 +24,7 @@
             "last_commit": "2026-06-06T02:10:59Z",
             "owner": "poteto",
             "repo": "hiring-without-whiteboards",
-            "stars": 51371
+            "stars": 51375
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-07-29T12:55:40Z",
             "owner": "tramcar",
             "repo": "awesome-job-boards",
-            "stars": 1846
+            "stars": 1847
           }
         }
       ],
@@ -72,7 +72,7 @@
             "last_commit": "2024-11-15T07:09:42Z",
             "owner": "arialdomartini",
             "repo": "Back-End-Developer-Interview-Questions",
-            "stars": 16951
+            "stars": 16950
           }
         }
       ],
@@ -126,7 +126,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27255
+            "stars": 27258
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-05T11:33:17Z",
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7188
+            "stars": 7187
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2024-07-01T15:25:07Z",
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4429
+            "stars": 4431
           }
         },
         {
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:11:17.328Z",
+    "last_updated": "2026-08-17T13:22:56.446Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "original_repository_sha": "065e30c43f20006bc40d7c50ea6fc7e0d265779d",
     "enhanced_repository": "enhansome/enhansome-engineering-team-management",
