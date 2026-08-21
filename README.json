@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-06T02:10:59Z",
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 51429
+                "stars": 51440
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-29T12:55:40Z",
                 "owner": "tramcar",
                 "repo": "awesome-job-boards",
-                "stars": 1848
+                "stars": 1849
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2025-02-19T22:41:18Z",
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28580
+                "stars": 28581
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84125
+                "stars": 84141
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2024-07-15T08:04:08Z",
                 "owner": "EnterpriseQualityCoding",
                 "repo": "FizzBuzzEnterpriseEdition",
-                "stars": 23778
+                "stars": 23782
               }
             }
           ],
@@ -132,7 +132,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27256
+            "stars": 27257
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-05T11:33:17Z",
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7187
+            "stars": 7186
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2024-07-01T15:25:07Z",
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4438
+            "stars": 4440
           }
         },
         {
@@ -206,7 +206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:28:58.071Z",
+    "last_updated": "2026-08-21T13:27:52.539Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "original_repository_id": 308356445,
     "original_repository_sha": "065e30c43f20006bc40d7c50ea6fc7e0d265779d",
