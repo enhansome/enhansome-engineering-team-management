@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-06T02:10:59Z",
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 51448
+                "stars": 51463
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-29T12:55:40Z",
                 "owner": "tramcar",
                 "repo": "awesome-job-boards",
-                "stars": 1849
+                "stars": 1848
               }
             }
           ],
@@ -91,7 +91,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84152
+                "stars": 84169
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2024-07-15T08:04:08Z",
                 "owner": "EnterpriseQualityCoding",
                 "repo": "FizzBuzzEnterpriseEdition",
-                "stars": 23784
+                "stars": 23786
               }
             }
           ],
@@ -132,7 +132,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27262
+            "stars": 27263
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-04-01T15:46:09Z",
             "owner": "pdfernhout",
             "repo": "High-Performance-Organizations-Reading-List",
-            "stars": 1265
+            "stars": 1266
           }
         }
       ],
@@ -183,7 +183,7 @@
             "last_commit": "2024-07-01T15:25:07Z",
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4443
+            "stars": 4445
           }
         },
         {
@@ -206,7 +206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:10:39.627Z",
+    "last_updated": "2026-08-23T13:11:43.530Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "original_repository_id": 308356445,
     "original_repository_sha": "065e30c43f20006bc40d7c50ea6fc7e0d265779d",
