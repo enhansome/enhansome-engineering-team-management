@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "description": "You got the title and the pay grade. Congratulation! This doesn't make you a manager yet. Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Paper we love: Software Engineering Organizations",
+          "description": "“The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15204860,
+            "language": "Shell",
+            "last_commit": "2026-08-24T09:14:23Z",
+            "owner": "papers-we-love",
+            "repo": "papers-we-love",
+            "stars": 108966
+          }
+        }
+      ],
+      "title": "Building Teams"
+    },
+    {
+      "description": "On the profiles, attitude, behaviors, and expectations between developers, managers and executives.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Engineering Manager Resources",
+              "description": "Huge list, but need some curation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74421371,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T17:03:00Z",
+                "owner": "ryanburgess",
+                "repo": "engineer-manager",
+                "stars": 10724
+              }
+            }
+          ],
+          "description": "Managers came in all form and shape, and the title and daily activities varies a lot depending on companies. When developers directly reports to you, you'll find yourself at the first management level: you are a front-line engineering manager.",
+          "node_type": "group",
+          "title": "Engineering Managers"
+        }
+      ],
+      "title": "Roles"
+    },
+    {
       "description": "You're in a competitive sector in which talents are in high demand. Be prepared as a manager to spend a lot of time recruiting people, either to expand your team or fill-in open positions. The dynamics gets interesting too, as you are now on both sides of the hiring process: as a candidate to get a job, and as a recruiter to staff up your team.",
       "items": [
         {
@@ -17,7 +66,7 @@
                 "last_commit": "2026-08-24T02:32:28Z",
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 51487
+                "stars": 51488
               }
             },
             {
@@ -39,6 +88,28 @@
           "description": "By targeting the right place to post your job offer to, you're increasing your chances of targeting the right candidates.",
           "node_type": "group",
           "title": "Job Boards"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open Sourced Interview Process",
+              "description": "Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108432711,
+                "language": null,
+                "last_commit": "2023-10-25T17:36:26Z",
+                "owner": "cockroachlabs",
+                "repo": "open-sourced-interview-process",
+                "stars": 429
+              }
+            }
+          ],
+          "description": "High-growth company will all need to industrialize the hiring process at one point.",
+          "node_type": "group",
+          "title": "Hiring Process"
         },
         {
           "children": [
@@ -91,7 +162,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84188
+                "stars": 84187
               }
             },
             {
@@ -154,6 +225,105 @@
       "title": "Culture"
     },
     {
+      "description": "You're no longer an engineer. Still, your team is responsible for the systems, technology and all the processes surrounding them. You'd better know a bit about engineering tenets.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Efficiency-Destroying Magic of Tidying Up",
+              "description": "“Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept the messiness of the world.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67687706,
+                "language": null,
+                "last_commit": "2026-08-14T13:32:02Z",
+                "owner": "kdeldycke",
+                "repo": "awesome-falsehood",
+                "stars": 27645
+              }
+            }
+          ],
+          "description": "Whatever the technical stack, we are building systems first, and have to manage its complexity.",
+          "node_type": "group",
+          "title": "Systems Complexity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code reviews at Google",
+              "description": "“Why Should Code Reviews Be Fast? (…) To optimize for the speed at which a team of developers can produce a product together, as opposed to optimizing for the speed at which an individual developer can write code.”",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 206410838,
+                "language": null,
+                "last_commit": "2024-09-19T05:27:52Z",
+                "owner": "google",
+                "repo": "eng-practices",
+                "stars": 23307
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Engineering Practices"
+        }
+      ],
+      "title": "Engineering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Remote Job",
+          "description": "Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28699471,
+            "language": null,
+            "last_commit": "2026-08-16T19:35:44Z",
+            "owner": "lukasz-madon",
+            "repo": "awesome-remote-job",
+            "stars": 47991
+          }
+        }
+      ],
+      "title": "Remote Work"
+    },
+    {
+      "description": "Two humans + a (virtual) room = a meeting.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "1 on 1 Meeting Questions",
+              "description": "A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111212542,
+                "language": "JavaScript",
+                "last_commit": "2023-03-18T15:42:17Z",
+                "owner": "VGraupera",
+                "repo": "1on1-questions",
+                "stars": 9614
+              }
+            }
+          ],
+          "description": "The most important meetings you'll have are frequent 1:1s with your direct reports.",
+          "node_type": "group",
+          "title": "1 on 1"
+        }
+      ],
+      "title": "Meetings"
+    },
+    {
       "description": "The Product Manager is supposed to be the voice of the market. Here are more links on the role and its reach.",
       "items": [
         {
@@ -183,7 +353,7 @@
             "last_commit": "2024-07-01T15:25:07Z",
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4448
+            "stars": 4447
           }
         },
         {
@@ -200,13 +370,35 @@
             "repo": "awesome-product-management",
             "stars": 2316
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Marketing for Engineers",
+              "description": "Lots of resources to help bootstrap your marketing activities and solve practical tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 88741624,
+                "language": null,
+                "last_commit": "2020-10-27T20:51:02Z",
+                "owner": "goabstract",
+                "repo": "Marketing-for-Engineers",
+                "stars": 13210
+              }
+            }
+          ],
+          "description": "How to find users, grow your customer base and make people talks about you product.",
+          "node_type": "group",
+          "title": "Product Marketing"
         }
       ],
       "title": "Product Management"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:32:11.269Z",
+    "last_updated": "2026-08-24T14:01:48.479Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "original_repository_id": 308356445,
     "original_repository_sha": "065e30c43f20006bc40d7c50ea6fc7e0d265779d",
