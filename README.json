@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 108966
+            "stars": 108977
           }
         }
       ],
@@ -66,7 +66,7 @@
                 "last_commit": "2026-08-24T02:32:28Z",
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 51488
+                "stars": 51562
               }
             },
             {
@@ -81,7 +81,7 @@
                 "last_commit": "2026-07-29T12:55:40Z",
                 "owner": "tramcar",
                 "repo": "awesome-job-boards",
-                "stars": 1850
+                "stars": 1851
               }
             }
           ],
@@ -140,7 +140,7 @@
                 "last_commit": "2024-11-15T07:09:42Z",
                 "owner": "arialdomartini",
                 "repo": "Back-End-Developer-Interview-Questions",
-                "stars": 16954
+                "stars": 16955
               }
             }
           ],
@@ -162,7 +162,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84187
+                "stars": 84199
               }
             },
             {
@@ -203,7 +203,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27266
+            "stars": 27268
           }
         },
         {
@@ -263,7 +263,7 @@
                 "last_commit": "2024-09-19T05:27:52Z",
                 "owner": "google",
                 "repo": "eng-practices",
-                "stars": 23307
+                "stars": 23306
               }
             }
           ],
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-16T19:35:44Z",
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 47991
+            "stars": 48015
           }
         }
       ],
@@ -338,7 +338,7 @@
             "last_commit": "2026-08-05T11:33:17Z",
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7186
+            "stars": 7187
           }
         },
         {
@@ -368,7 +368,7 @@
             "last_commit": "2026-02-08T02:36:12Z",
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2316
+            "stars": 2319
           }
         },
         {
@@ -385,7 +385,7 @@
                 "last_commit": "2020-10-27T20:51:02Z",
                 "owner": "goabstract",
                 "repo": "Marketing-for-Engineers",
-                "stars": 13210
+                "stars": 13211
               }
             }
           ],
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:48.479Z",
+    "last_updated": "2026-08-25T05:56:08.061Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "original_repository_id": 308356445,
     "original_repository_sha": "065e30c43f20006bc40d7c50ea6fc7e0d265779d",
