@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109011
+            "stars": 109031
           }
         }
       ],
@@ -66,7 +66,7 @@
                 "last_commit": "2026-08-24T02:32:28Z",
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 51689
+                "stars": 51750
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2025-02-19T22:41:18Z",
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28585
+                "stars": 28586
               }
             },
             {
@@ -140,7 +140,7 @@
                 "last_commit": "2024-11-15T07:09:42Z",
                 "owner": "arialdomartini",
                 "repo": "Back-End-Developer-Interview-Questions",
-                "stars": 16954
+                "stars": 16955
               }
             }
           ],
@@ -162,7 +162,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84210
+                "stars": 84222
               }
             },
             {
@@ -177,7 +177,7 @@
                 "last_commit": "2024-07-15T08:04:08Z",
                 "owner": "EnterpriseQualityCoding",
                 "repo": "FizzBuzzEnterpriseEdition",
-                "stars": 23789
+                "stars": 23791
               }
             }
           ],
@@ -203,7 +203,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27267
+            "stars": 27270
           }
         },
         {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-08-14T13:32:02Z",
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27647
+                "stars": 27651
               }
             }
           ],
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-16T19:35:44Z",
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48058
+            "stars": 48122
           }
         }
       ],
@@ -353,7 +353,7 @@
             "last_commit": "2024-07-01T15:25:07Z",
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4448
+            "stars": 4451
           }
         },
         {
@@ -368,7 +368,7 @@
             "last_commit": "2026-02-08T02:36:12Z",
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2320
+            "stars": 2321
           }
         },
         {
@@ -385,7 +385,7 @@
                 "last_commit": "2020-10-27T20:51:02Z",
                 "owner": "goabstract",
                 "repo": "Marketing-for-Engineers",
-                "stars": 13212
+                "stars": 13214
               }
             }
           ],
@@ -398,9 +398,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:36:26.103Z",
-    "original_repository": "kdeldycke/awesome-engineering-team-management",
-    "original_repository_id": 308356445,
+    "last_updated": "2026-08-27T11:38:44.661Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 308356445,
+      "language": null,
+      "last_commit": "2026-08-14T09:09:00Z",
+      "owner": "kdeldycke",
+      "repo": "awesome-engineering-team-management",
+      "stars": 2586
+    },
     "original_repository_sha": "065e30c43f20006bc40d7c50ea6fc7e0d265779d",
     "enhanced_repository": "enhansome/enhansome-engineering-team-management",
     "enhanced_repository_description": null,
