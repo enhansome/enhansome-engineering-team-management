@@ -23,7 +23,7 @@
   — Tom DeMarco<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,362 | 🐛 105 | 📅 2026-08-21 list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,522 | 🐛 105 | 📅 2026-08-21 list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
 * You're a developer and wonders what it feels like to be a manager?
 * You just started your first position as the leader of a team?
@@ -154,7 +154,7 @@ The first step. The hardest. How to requalify oneself from an Individual Contrib
 
 You got the title and the pay grade. Congratulation! This doesn't make you a manager yet. Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.
 
-* [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) ⭐ 109,031 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
+* [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) ⭐ 109,044 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
 
 * [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect.
 
@@ -278,9 +278,9 @@ You're in a competitive sector in which talents are in high demand. Be prepared 
 
 By targeting the right place to post your job offer to, you're increasing your chances of targeting the right candidates.
 
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 51,750 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-24 - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 51,775 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-24 - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
-* [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) ⭐ 1,850 | 🐛 24 | 📅 2026-07-29 - Niche job boards by domains, technology, roles and area.
+* [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) ⭐ 1,851 | 🐛 24 | 📅 2026-07-29 - Niche job boards by domains, technology, roles and area.
 
 ### Hiring Process
 
@@ -302,7 +302,7 @@ List of questions that can be used when vetting potential candidates, and topics
 
 * [Reverse interview](https://github.com/viraptor/reverse-interview) ⭐ 28,586 | 🐛 23 | 📅 2025-02-19 - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
-* [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) ⭐ 16,955 | 🐛 16 | 📅 2024-11-15 - A great source of inspiration.
+* [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) ⭐ 16,958 | 🐛 16 | 📅 2024-11-15 - A great source of inspiration.
 
 * [The Technical Interview is an Ego Trip](https://web.archive.org/web/20221101193146/https://kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicle to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
 
@@ -320,7 +320,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) ⚠️ Archived - A huge database of questions sorted by topic to get inspiration from.
 
-* [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,791 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - A satire of over-engineering for the sake of enterprise-grade software.
+* [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,792 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - A satire of over-engineering for the sake of enterprise-grade software.
 
 * [How to Freaking Find Great Developers By Having Them Read Code](https://web.archive.org/web/20230416055512/https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) - “Instead of writing code, consider having the candidate read existing code and talk about how it works. 1) Reading code is 95% of what a developer does as part of their job. 2) A candidate can tell you a lot about their programming skill in the first five minutes of reading. 3) Stress is your enemy because it raises adrenaline which lowers IQ by several points, causing you to miss good candidates.”
 
@@ -514,7 +514,7 @@ You shouldn't spend your time coding. Leave that to the engineers: your value li
 
 Whatever the technical stack, we are building systems first, and have to manage its complexity.
 
-* [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,651 | 🐛 5 | 📅 2026-08-14.
+* [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,652 | 🐛 4 | 📅 2026-08-14.
 
 * [Second-system effect](https://en.wikipedia.org/wiki/Second-system_effect) - “Tendency of small, elegant, and successful systems, to be succeeded by over-engineered, bloated systems”.
 
@@ -566,7 +566,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 ## Remote Work
 
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,122 | 🐛 84 | 📅 2026-08-16 - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,149 | 🐛 83 | 📅 2026-08-16 - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 * [The Surprising Traits of Good Remote Leaders](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones) - “the confidence, intelligence and extroversion that have long propelled ambitious workers into the executive suite are not enough online because they simply don't translate into virtual leadership. (…) Instead, workers who are organized, dependable and productive take the reins of virtual teams.” As the [source paper](https://link.springer.com/article/10.1007/s10869-020-09698-0) say it best: “virtually, the emphasis shifts from saying to doing.”
 
@@ -628,7 +628,7 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 * [Open Product Management](https://github.com/tron1991/open-product-management) ⭐ 4,451 | 🐛 16 | 📅 2024-07-01 - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 
-* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,321 | 🐛 177 | 🌐 CSS | 📅 2026-02-08 - A reference. All the missing pieces are found below.
+* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,322 | 🐛 177 | 🌐 CSS | 📅 2026-02-08 - A reference. All the missing pieces are found below.
 
 * “You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.” ([source](https://news.ycombinator.com/item?id=19050555))
 
