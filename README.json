@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Papers from the computer science community to read and discuss.",
+            "homepage": "http://paperswelove.org/",
             "id": 15204860,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-24T09:14:23Z",
+            "open_issues": 3,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109063
+            "stars": 109070,
+            "topics": [
+              "awesome",
+              "computer-science",
+              "meetup",
+              "papers",
+              "programming",
+              "read-papers",
+              "theory"
+            ]
           },
           "first_seen": "2026-08-28T22:34:10.245Z"
         }
@@ -34,12 +47,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of engineering manager resource links.",
+                "homepage": null,
                 "id": 74421371,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-17T17:03:00Z",
+                "open_issues": 6,
                 "owner": "ryanburgess",
                 "repo": "engineer-manager",
-                "stars": 10724
+                "stars": 10724,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             }
@@ -63,12 +81,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⭐️  Companies that don't have a broken hiring process",
+                "homepage": null,
                 "id": 85031442,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T02:32:28Z",
+                "open_issues": 10,
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 51813
+                "stars": 51815,
+                "topics": [
+                  "airtable",
+                  "hiring",
+                  "hiring-without-whiteboards",
+                  "interview",
+                  "jobs",
+                  "tech",
+                  "whiteboard"
+                ]
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             },
@@ -79,12 +110,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 41573362,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-29T12:55:40Z",
+                "open_issues": 24,
                 "owner": "tramcar",
                 "repo": "awesome-job-boards",
-                "stars": 1852
+                "stars": 1852,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "job-board",
+                  "jobs",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             }
@@ -102,12 +144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Sourced Interview Process",
+                "homepage": null,
                 "id": 108432711,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2023-10-25T17:36:26Z",
+                "open_issues": 4,
                 "owner": "cockroachlabs",
                 "repo": "open-sourced-interview-process",
-                "stars": 429
+                "stars": 429,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             }
@@ -125,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Questions to ask the company during your interview",
+                "homepage": null,
                 "id": 207117992,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-19T22:41:18Z",
+                "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28586
+                "stars": 28587,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             },
@@ -141,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+                "homepage": null,
                 "id": 20553982,
                 "language": null,
+                "license": "GPL-2.0",
                 "last_commit": "2024-11-15T07:09:42Z",
+                "open_issues": 16,
                 "owner": "arialdomartini",
                 "repo": "Back-End-Developer-Interview-Questions",
-                "stars": 16958
+                "stars": 16958,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             }
@@ -164,12 +221,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
+                "homepage": "https://doppler.com",
                 "id": 47018239,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-29T14:21:23Z",
+                "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84237
+                "stars": 84242,
+                "topics": [
+                  "android-interview-questions",
+                  "angularjs-interview-questions",
+                  "awesome",
+                  "awesome-list",
+                  "awesomeness",
+                  "interview-practice",
+                  "interview-questions",
+                  "interviewing",
+                  "javascript",
+                  "javascript-interview-questions",
+                  "list",
+                  "python-interview-questions",
+                  "rails-interview",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             },
@@ -180,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.",
+                "homepage": null,
                 "id": 6834703,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-07-15T08:04:08Z",
+                "open_issues": 546,
                 "owner": "EnterpriseQualityCoding",
                 "repo": "FizzBuzzEnterpriseEdition",
-                "stars": 23795
+                "stars": 23795,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             }
@@ -207,12 +289,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 Laws, Theories, Principles and Patterns for developers and technologists.",
+            "homepage": "http://hacker-laws.com/",
             "id": 118858739,
             "language": "HTML",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-05-19T06:22:17Z",
+            "open_issues": 152,
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27273
+            "stars": 27273,
+            "topics": [
+              "coding",
+              "computerscience",
+              "laws",
+              "principles"
+            ]
           },
           "first_seen": "2026-08-28T22:34:10.245Z"
         },
@@ -223,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ideas for creating and sustaining high performance organizations",
+            "homepage": null,
             "id": 85323750,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-01T15:46:09Z",
+            "open_issues": 3,
             "owner": "pdfernhout",
             "repo": "High-Performance-Organizations-Reading-List",
-            "stars": 1266
+            "stars": 1266,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:10.245Z"
         }
@@ -247,12 +344,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😱 Falsehoods Programmers Believe in",
+                "homepage": null,
                 "id": 67687706,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-14T13:32:02Z",
+                "open_issues": 4,
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27653
+                "stars": 27653,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "currency",
+                  "date",
+                  "edge-cases",
+                  "falsehoods",
+                  "geography",
+                  "identity",
+                  "internationalization",
+                  "myths",
+                  "names",
+                  "phone-number",
+                  "phone-numbers",
+                  "postal-addresses",
+                  "time",
+                  "timezone",
+                  "typography",
+                  "unicode",
+                  "unicode-characters",
+                  "video-games"
+                ]
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             }
@@ -270,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Google's Engineering Practices documentation",
+                "homepage": "https://google.github.io/eng-practices/",
                 "id": 206410838,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-19T05:27:52Z",
+                "open_issues": 20,
                 "owner": "google",
                 "repo": "eng-practices",
-                "stars": 23306
+                "stars": 23306,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             }
@@ -297,12 +425,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+            "homepage": null,
             "id": 28699471,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-16T19:35:44Z",
+            "open_issues": 83,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48183
+            "stars": 48191,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:34:10.245Z"
         }
@@ -321,12 +458,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mega list of 1 on 1 meeting questions compiled from a variety to sources",
+                "homepage": null,
                 "id": 111212542,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-18T15:42:17Z",
+                "open_issues": 3,
                 "owner": "VGraupera",
                 "repo": "1on1-questions",
-                "stars": 9614
+                "stars": 9614,
+                "topics": [
+                  "management"
+                ]
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             }
@@ -348,12 +492,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Below are some simple methods for exiting vim.",
+            "homepage": "https://hakluke.com",
             "id": 210854001,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-05T11:33:17Z",
+            "open_issues": 104,
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7188
+            "stars": 7188,
+            "topics": [
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T22:34:10.245Z"
         },
@@ -364,12 +515,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of product management advice for technical people.",
+            "homepage": null,
             "id": 54433297,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-01T15:25:07Z",
+            "open_issues": 16,
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4451
+            "stars": 4451,
+            "topics": [
+              "management",
+              "product",
+              "product-hunt",
+              "product-leader",
+              "product-management",
+              "product-manager",
+              "product-roadmap",
+              "silicon-valley"
+            ]
           },
           "first_seen": "2026-08-28T22:34:10.245Z"
         },
@@ -380,12 +545,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 A curated list of awesome resources for product/program managers to learn and grow.",
+            "homepage": null,
             "id": 173645627,
             "language": "CSS",
+            "license": "CC0-1.0",
             "last_commit": "2026-02-08T02:36:12Z",
+            "open_issues": 179,
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2323
+            "stars": 2323,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "pm",
+              "product",
+              "product-management"
+            ]
           },
           "first_seen": "2026-08-28T22:34:10.245Z"
         },
@@ -398,12 +574,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A curated collection of marketing articles & tools to grow your product. ",
+                "homepage": null,
                 "id": 88741624,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-27T20:51:02Z",
+                "open_issues": 19,
                 "owner": "goabstract",
                 "repo": "Marketing-for-Engineers",
-                "stars": 13217
+                "stars": 13217,
+                "topics": [
+                  "awesome-list",
+                  "bootstrapper",
+                  "entrepreneurs",
+                  "hardware",
+                  "indiedev",
+                  "marketing",
+                  "mobile-app",
+                  "startup-resources"
+                ]
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
             }
@@ -417,15 +607,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:34:10.245Z",
+    "last_updated": "2026-08-29T04:23:21.395Z",
     "original_repository_info": {
       "archived": false,
+      "description": "👔 How to transition from software development to engineering management",
+      "homepage": null,
       "id": 308356445,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-14T09:09:00Z",
+      "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-engineering-team-management",
-      "stars": 2587
+      "stars": 2587,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "career",
+        "compensation",
+        "cto",
+        "culture",
+        "engineering-manager",
+        "engineering-team",
+        "executive-management",
+        "hiring",
+        "leadership",
+        "management",
+        "motivation",
+        "onboarding",
+        "politics",
+        "product-management",
+        "recruitment",
+        "systems",
+        "team-management",
+        "transition"
+      ]
     },
     "original_repository_sha": "065e30c43f20006bc40d7c50ea6fc7e0d265779d",
     "enhanced_repository": "enhansome/enhansome-engineering-team-management",
