@@ -15,11 +15,11 @@
             "id": 15204860,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-08-31T16:58:20Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-17T00:40:26Z",
+            "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109776,
+            "stars": 109807,
             "topics": [
               "awesome",
               "computer-science",
@@ -90,7 +90,7 @@
                 "open_issues": 11,
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 52139,
+                "stars": 52142,
                 "topics": [
                   "airtable",
                   "hiring",
@@ -181,7 +181,7 @@
                 "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28592,
+                "stars": 28594,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -230,7 +230,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84549,
+                "stars": 84566,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -266,7 +266,7 @@
                 "open_issues": 546,
                 "owner": "EnterpriseQualityCoding",
                 "repo": "FizzBuzzEnterpriseEdition",
-                "stars": 23855,
+                "stars": 23857,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -298,7 +298,7 @@
             "open_issues": 153,
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27290,
+            "stars": 27292,
             "topics": [
               "coding",
               "computerscience",
@@ -353,7 +353,7 @@
                 "open_issues": 5,
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27690,
+                "stars": 27692,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -402,7 +402,7 @@
                 "open_issues": 20,
                 "owner": "google",
                 "repo": "eng-practices",
-                "stars": 23299,
+                "stars": 23300,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -434,7 +434,7 @@
             "open_issues": 93,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48723,
+            "stars": 48756,
             "topics": [
               "awesome",
               "awesome-list",
@@ -551,7 +551,7 @@
             "language": "CSS",
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T22:44:09Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "dend",
             "repo": "awesome-product-management",
             "stars": 2365,
@@ -583,7 +583,7 @@
                 "open_issues": 19,
                 "owner": "goabstract",
                 "repo": "Marketing-for-Engineers",
-                "stars": 13223,
+                "stars": 13222,
                 "topics": [
                   "awesome-list",
                   "bootstrapper",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:14:20.258Z",
+    "last_updated": "2026-09-17T17:13:30.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔 How to transition from software development to engineering management",
@@ -619,7 +619,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-engineering-team-management",
-      "stars": 2601,
+      "stars": 2602,
       "topics": [
         "awesome",
         "awesome-list",
