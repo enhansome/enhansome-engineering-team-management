@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109941,
+            "stars": 109969,
             "topics": [
               "awesome",
               "computer-science",
@@ -86,11 +86,11 @@
                 "id": 85031442,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-24T02:32:28Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-24T04:48:39Z",
+                "open_issues": 10,
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 52181,
+                "stars": 52190,
                 "topics": [
                   "airtable",
                   "hiring",
@@ -116,10 +116,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-29T12:55:40Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "tramcar",
                 "repo": "awesome-job-boards",
-                "stars": 1867,
+                "stars": 1868,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -181,7 +181,7 @@
                 "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28596,
+                "stars": 28598,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -202,7 +202,7 @@
                 "open_issues": 16,
                 "owner": "arialdomartini",
                 "repo": "Back-End-Developer-Interview-Questions",
-                "stars": 16964,
+                "stars": 16967,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -230,7 +230,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84645,
+                "stars": 84659,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -266,7 +266,7 @@
                 "open_issues": 546,
                 "owner": "EnterpriseQualityCoding",
                 "repo": "FizzBuzzEnterpriseEdition",
-                "stars": 23864,
+                "stars": 23867,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -402,7 +402,7 @@
                 "open_issues": 20,
                 "owner": "google",
                 "repo": "eng-practices",
-                "stars": 23300,
+                "stars": 23299,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -431,10 +431,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T15:00:51Z",
-            "open_issues": 96,
+            "open_issues": 98,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48923,
+            "stars": 48940,
             "topics": [
               "awesome",
               "awesome-list",
@@ -551,10 +551,10 @@
             "language": "CSS",
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T22:44:09Z",
-            "open_issues": 108,
+            "open_issues": 109,
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2373,
+            "stars": 2374,
             "topics": [
               "awesome",
               "awesome-list",
@@ -583,7 +583,7 @@
                 "open_issues": 19,
                 "owner": "goabstract",
                 "repo": "Marketing-for-Engineers",
-                "stars": 13230,
+                "stars": 13231,
                 "topics": [
                   "awesome-list",
                   "bootstrapper",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:24:58.808Z",
+    "last_updated": "2026-09-24T17:30:03.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔 How to transition from software development to engineering management",
