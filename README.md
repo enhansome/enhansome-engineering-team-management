@@ -23,7 +23,7 @@
   — Tom DeMarco<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,384 | 🐛 105 | 📅 2026-09-02 list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://kevin.deldycke.com/2020/engineering-to-management-transition). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,876 | 🐛 105 | 📅 2026-09-02 list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://kevin.deldycke.com/2020/engineering-to-management-transition). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
 * You're a developer and wonders what it feels like to be a manager?
 * You just started your first position as the leader of a team?
@@ -154,7 +154,7 @@ The first step. The hardest. How to requalify oneself from an Individual Contrib
 
 You got the title and the pay grade. Congratulation! This doesn't make you a manager yet. Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.
 
-* [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) ⭐ 110,574 | 🐛 4 | 🌐 Shell | 📅 2026-09-29 - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
+* [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) ⭐ 110,604 | 🐛 4 | 🌐 Shell | 📅 2026-09-29 - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
 
 * [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect.
 
@@ -210,7 +210,7 @@ In tech companies these roles are critical, and the frontier between the two is 
 
 Managers came in all form and shape, and the title and daily activities varies a lot depending on companies. When developers directly reports to you, you'll find yourself at the first management level: you are a front-line engineering manager.
 
-* [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) ⭐ 10,731 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-07 - Huge list, but need some curation.
+* [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) ⭐ 10,732 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-16 - Huge list, but need some curation.
 
 * [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - “The irony is that you don't really notice a great manager.”
 
@@ -278,9 +278,9 @@ You're in a competitive sector in which talents are in high demand. Be prepared 
 
 By targeting the right place to post your job offer to, you're increasing your chances of targeting the right candidates.
 
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 52,698 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-24 - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 52,722 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-24 - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
-* [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) ⭐ 1,880 | 🐛 49 | 📅 2026-07-29 - Niche job boards by domains, technology, roles and area.
+* [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) ⭐ 1,883 | 🐛 51 | 📅 2026-07-29 - Niche job boards by domains, technology, roles and area.
 
 ### Hiring Process
 
@@ -566,7 +566,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 ## Remote Work
 
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 49,506 | 🐛 129 | 📅 2026-09-21 - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 49,554 | 🐛 130 | 📅 2026-09-21 - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 * [The Surprising Traits of Good Remote Leaders](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones) - “the confidence, intelligence and extroversion that have long propelled ambitious workers into the executive suite are not enough online because they simply don't translate into virtual leadership. (…) Instead, workers who are organized, dependable and productive take the reins of virtual teams.” As the [source paper](https://link.springer.com/article/10.1007/s10869-020-09698-0) say it best: “virtually, the emphasis shifts from saying to doing.”
 
@@ -624,11 +624,11 @@ The environment we work in shapes us. Perks too.
 
 The Product Manager is supposed to be the *voice of the market*. Here are more links on the role and its reach.
 
-* [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) ⭐ 7,193 | 🐛 103 | 📅 2026-08-05 - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
+* [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) ⭐ 7,194 | 🐛 103 | 📅 2026-08-05 - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 * [Open Product Management](https://github.com/tron1991/open-product-management) ⭐ 4,495 | 🐛 17 | 📅 2024-07-01 - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 
-* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,417 | 🐛 130 | 🌐 CSS | 📅 2026-09-07 - A reference. All the missing pieces are found below.
+* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,419 | 🐛 131 | 🌐 CSS | 📅 2026-09-07 - A reference. All the missing pieces are found below.
 
 * “You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.” ([source](https://news.ycombinator.com/item?id=19050555))
 
@@ -1138,4 +1138,4 @@ The [header image](https://github.com/kdeldycke/awesome-engineering-team-managem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
