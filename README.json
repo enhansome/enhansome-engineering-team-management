@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 111645,
+            "stars": 111666,
             "topics": [
               "awesome",
               "computer-science",
@@ -56,7 +56,7 @@
                 "open_issues": 8,
                 "owner": "ryanburgess",
                 "repo": "engineer-manager",
-                "stars": 10739,
+                "stars": 10738,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -90,7 +90,7 @@
                 "open_issues": 12,
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 53414,
+                "stars": 53466,
                 "topics": [
                   "airtable",
                   "hiring",
@@ -116,7 +116,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-29T12:55:40Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "tramcar",
                 "repo": "awesome-job-boards",
                 "stars": 1899,
@@ -153,7 +153,7 @@
                 "open_issues": 4,
                 "owner": "cockroachlabs",
                 "repo": "open-sourced-interview-process",
-                "stars": 432,
+                "stars": 431,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -181,7 +181,7 @@
                 "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28673,
+                "stars": 28672,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -230,7 +230,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 85649,
+                "stars": 85667,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -263,10 +263,10 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2024-07-15T08:04:08Z",
-                "open_issues": 549,
+                "open_issues": 550,
                 "owner": "EnterpriseQualityCoding",
                 "repo": "FizzBuzzEnterpriseEdition",
-                "stars": 23948,
+                "stars": 23947,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -294,11 +294,11 @@
             "id": 118858739,
             "language": "HTML",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-07T06:48:37Z",
-            "open_issues": 154,
+            "last_commit": "2026-11-19T13:49:40Z",
+            "open_issues": 155,
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27356,
+            "stars": 27358,
             "topics": [
               "coding",
               "computerscience",
@@ -324,7 +324,7 @@
             "open_issues": 3,
             "owner": "pdfernhout",
             "repo": "High-Performance-Organizations-Reading-List",
-            "stars": 1269,
+            "stars": 1268,
             "topics": []
           },
           "first_seen": "2026-08-28T22:34:10.245Z"
@@ -353,7 +353,7 @@
                 "open_issues": 4,
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27872,
+                "stars": 27876,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -402,7 +402,7 @@
                 "open_issues": 20,
                 "owner": "google",
                 "repo": "eng-practices",
-                "stars": 23277,
+                "stars": 23276,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -431,10 +431,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T15:00:51Z",
-            "open_issues": 182,
+            "open_issues": 185,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 50775,
+            "stars": 50807,
             "topics": [
               "awesome",
               "awesome-list",
@@ -467,7 +467,7 @@
                 "open_issues": 3,
                 "owner": "VGraupera",
                 "repo": "1on1-questions",
-                "stars": 9623,
+                "stars": 9624,
                 "topics": [
                   "management"
                 ]
@@ -524,7 +524,7 @@
             "open_issues": 19,
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4522,
+            "stars": 4519,
             "topics": [
               "management",
               "product",
@@ -554,7 +554,7 @@
             "open_issues": 97,
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2472,
+            "stars": 2474,
             "topics": [
               "awesome",
               "awesome-list",
@@ -583,7 +583,7 @@
                 "open_issues": 19,
                 "owner": "goabstract",
                 "repo": "Marketing-for-Engineers",
-                "stars": 13263,
+                "stars": 13264,
                 "topics": [
                   "awesome-list",
                   "bootstrapper",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:50:41.097Z",
+    "last_updated": "2026-11-19T20:55:08.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔 How to transition from software development to engineering management",
