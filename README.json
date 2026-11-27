@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 111890,
+            "stars": 111921,
             "topics": [
               "awesome",
               "computer-science",
@@ -56,7 +56,7 @@
                 "open_issues": 8,
                 "owner": "ryanburgess",
                 "repo": "engineer-manager",
-                "stars": 10738,
+                "stars": 10739,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -90,7 +90,7 @@
                 "open_issues": 13,
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 53693,
+                "stars": 53725,
                 "topics": [
                   "airtable",
                   "hiring",
@@ -116,10 +116,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-29T12:55:40Z",
-                "open_issues": 109,
+                "open_issues": 111,
                 "owner": "tramcar",
                 "repo": "awesome-job-boards",
-                "stars": 1901,
+                "stars": 1900,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -181,7 +181,7 @@
                 "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28674,
+                "stars": 28672,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -230,7 +230,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 85781,
+                "stars": 85793,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -266,7 +266,7 @@
                 "open_issues": 550,
                 "owner": "EnterpriseQualityCoding",
                 "repo": "FizzBuzzEnterpriseEdition",
-                "stars": 23949,
+                "stars": 23950,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -295,10 +295,10 @@
             "language": "HTML",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-25T12:23:19Z",
-            "open_issues": 155,
+            "open_issues": 156,
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27366,
+            "stars": 27365,
             "topics": [
               "coding",
               "computerscience",
@@ -353,7 +353,7 @@
                 "open_issues": 4,
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27895,
+                "stars": 27898,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -402,7 +402,7 @@
                 "open_issues": 20,
                 "owner": "google",
                 "repo": "eng-practices",
-                "stars": 23273,
+                "stars": 23272,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:10.245Z"
@@ -431,10 +431,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T15:00:51Z",
-            "open_issues": 202,
+            "open_issues": 204,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 51221,
+            "stars": 51292,
             "topics": [
               "awesome",
               "awesome-list",
@@ -501,7 +501,7 @@
             "open_issues": 103,
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7196,
+            "stars": 7197,
             "topics": [
               "vim"
             ]
@@ -524,7 +524,7 @@
             "open_issues": 19,
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4522,
+            "stars": 4523,
             "topics": [
               "management",
               "product",
@@ -551,7 +551,7 @@
             "language": "CSS",
             "license": "CC0-1.0",
             "last_commit": "2026-11-07T22:12:37Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "dend",
             "repo": "awesome-product-management",
             "stars": 2481,
@@ -583,7 +583,7 @@
                 "open_issues": 19,
                 "owner": "goabstract",
                 "repo": "Marketing-for-Engineers",
-                "stars": 13271,
+                "stars": 13270,
                 "topics": [
                   "awesome-list",
                   "bootstrapper",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:50:57.318Z",
+    "last_updated": "2026-11-27T21:34:28.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔 How to transition from software development to engineering management",
